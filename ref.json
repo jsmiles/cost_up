@@ -1,0 +1,28 @@
+{
+	"prices": [
+		{
+			"product_id": 1,
+			"price": 15,
+			"vat_band": "standard"
+		},
+		{
+			"product_id": 2,
+			"price": 24,
+			"vat_band": "zero"
+		},
+		{
+			"product_id": 3,
+			"price": 32,
+			"vat_band": "zero"
+		},
+		{
+			"product_id": 4,
+			"price": 40,
+			"vat_band": "zero"
+		}
+	],
+	"vat_bands": {
+		"standard": 0.2,
+		"zero": 0
+	}
+}
